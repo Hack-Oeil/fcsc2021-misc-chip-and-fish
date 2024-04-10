@@ -30,8 +30,20 @@ Auteur : sheidan
 Origine : [Chip and Fish](https://hackropole.fr/fr/challenges/misc/fcsc2021-misc-chip-and-fish/)
 
 
-## Connectez vous
-http://localhost
+
+## Connectez vous en WEBSSH
+> http://localhost
+
+#### tentez 
+> nc chip-and-fish.cyrhades.com:4000
+
+
+-----------
+
+## Ou directement avec netcat
+> nc localhost:4000
+
+-----------
 
 
 ## Installation manuel
